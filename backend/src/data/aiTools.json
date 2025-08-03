@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Notion AI",
+    "description": "AI assistant for docs, notes, tasks.",
+    "url": "https://www.notion.so/product/ai",
+    "free": true,
+    "categories": ["Productivity", "Education"]
+  },
+  {
+    "name": "Codeium",
+    "description": "Free AI code completion tool.",
+    "url": "https://codeium.com",
+    "free": true,
+    "categories": ["Coding"]
+  },
+  {
+    "name": "Runway ML",
+    "description": "AI video editing for creators.",
+    "url": "https://runwayml.com",
+    "free": false,
+    "categories": ["Video", "Design"]
+  }
+]
